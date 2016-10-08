@@ -16,8 +16,8 @@
         "doctrine/doctrine-bundle": "~1.0"
     },
     "autoload": {
-        "psr-0": {
-            "AB": "src/"
+        "psr-4": {
+            "AB\\ABBundle\\": ""
         }
     },
     "extra": {
