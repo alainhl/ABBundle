@@ -1,3 +1,4 @@
 phpunit.xml
 build.xml
 build
+/nbproject/private/
