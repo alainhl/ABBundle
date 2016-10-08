@@ -1,0 +1,5 @@
+ab_testing_process_score:
+    pattern:  /ab-testing-process-score/{test_suite}/{score}
+    defaults: { _controller: ABBundle:Default:processScore}
+    options:
+        expose: true
