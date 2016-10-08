@@ -20,6 +20,7 @@ class TestSuite extends BaseTestSuite
     /**
      * @ORM\Column(type="integer")
      * @ORM\Id
+     * @ORM\GeneratedValue(strategy="AUTO")
      */
     protected $id;
 
