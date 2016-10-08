@@ -5,7 +5,7 @@ namespace AB\ABBundle\Base;
 use AB\ABBundle\Model\ErrorNoVersionAvailable;
 use AB\ABBundle\Model\TestSuiteInterface;
 use AB\ABBundle\Model\SessionInterface;
-use Symfony\Component\HttpFoundation\Session;
+use Symfony\Component\HttpFoundation\Session\Session;
 
 /**
  * @author Nicolas Chambrier <naholyr@gmail.com>
